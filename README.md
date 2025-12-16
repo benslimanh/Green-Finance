@@ -24,7 +24,8 @@ In the context of the global shift towards sustainable finance, this project con
 * **Implication:** Adding Green Energy to a traditional portfolio provides excellent **diversification benefits**, reducing overall portfolio risk.
 
 ## 📉 Visualizations
-*(Place your 'Performance Chart' and 'Correlation Heatmap' images here)*
+<img width="665" height="548" alt="image" src="https://github.com/user-attachments/assets/2c0f42a6-24a4-49cf-9bf4-c18a02e363b6" />
+
 
 ## 🚀 How to Run
 1. Open `Green_Finance_Project.ipynb` in Google Colab.
