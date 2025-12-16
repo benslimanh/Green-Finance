@@ -24,6 +24,8 @@ In the context of the global shift towards sustainable finance, this project con
 * **Implication:** Adding Green Energy to a traditional portfolio provides excellent **diversification benefits**, reducing overall portfolio risk.
 
 ## 📉 Visualizations
+<img width="1190" height="590" alt="image" src="https://github.com/user-attachments/assets/0a913a1f-670b-4441-82c6-cada94a5c422" />
+
 <img width="665" height="548" alt="image" src="https://github.com/user-attachments/assets/2c0f42a6-24a4-49cf-9bf4-c18a02e363b6" />
 
 
